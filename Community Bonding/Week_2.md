@@ -22,7 +22,7 @@ More detailed study of the package can be viewed using the `?translate_package`.
 Also looked up for the workflow which are as described in `vignette("developers")` and `vignette("translators")` of `potools` package.
 
 
-## June 1, 2022 - 3 June, 2022
+## June 4, 2022
 
 Studied more about Deployment with `GitHub Actions`:
 
